@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    margin: auto;
+    margin-bottom: 30px;
+    background-color: aliceblue;
+    width: 50%;
+    border: 5px solid beige;
+    border-radius: 50px;
+    padding: 25px;
+    box-shadow: 10px 10px 5px;
+}
+
+div h1{
+    text-align: center;
+    color: cadetblue;
+    margin-bottom: 15px;
+}
+
+span{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.div1{
+    margin-top: 50px;
+}
+
+ol li{
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+ol{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+ol ol{
+    margin-left: 50px;
+}
